@@ -4,7 +4,7 @@ public class ExecuteScreen {
 	
 	public static void main(String[] args) {
 		
-		ScreenTime screenTime = new ScreenTime();
+		ScreenTime2 screenTime2 = new ScreenTime2();
 		
 	}
 
